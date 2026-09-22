@@ -1,0 +1,6 @@
+genome	matched_genes	identical_length	pct_identical	pearson_r
+FungiDB-69_Cauris6684	5577	5476	98.19	0.9976
+FungiDB-69_CaurisB11220	5513	5028	91.20	0.9970
+FungiDB-69_CaurisB11221	5590	5255	94.01	0.9963
+FungiDB-69_CaurisB11243	5561	5084	91.42	0.9962
+FungiDB-69_CaurisB11245	5575	4183	75.03	0.9989

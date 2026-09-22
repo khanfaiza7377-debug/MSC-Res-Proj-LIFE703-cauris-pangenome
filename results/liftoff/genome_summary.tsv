@@ -1,0 +1,6 @@
+genome	n_genes	n_transcripts	gene_len_mean	gene_len_median	gene_len_min	gene_len_max	gene_len_total	exons_per_gene_mean	exons_per_gene_max	introns_per_gene_mean	introns_total	single_exon_genes	single_exon_pct
+FungiDB-69_Cauris6684_liftoff	5577	5420	1470.2	1245	47	14841	8199031	1.06	6	0.08	466	5156	92.5
+FungiDB-69_CaurisB11220_liftoff	5568	5401	1466.0	1239.0	71	14841	8162949	1.05	6	0.08	468	5146	92.4
+FungiDB-69_CaurisB11221_liftoff	5643	5450	1460.0	1236	71	14841	8238688	1.05	6	0.08	470	5219	92.5
+FungiDB-69_CaurisB11243_liftoff	5561	5403	1469.6	1243	71	14841	8172363	1.06	6	0.08	466	5141	92.4
+FungiDB-69_CaurisB11245_liftoff	5575	5405	1467.3	1239	68	14841	8179998	1.05	6	0.08	469	5152	92.4

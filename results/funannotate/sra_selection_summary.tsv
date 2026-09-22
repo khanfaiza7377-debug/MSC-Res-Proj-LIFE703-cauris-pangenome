@@ -1,0 +1,18 @@
+Run	Category	Strain	BioProject	AvgLength_bp	Spots	Platform	Rationale
+SRR23147657	Baseline/carbon-nitrogen		PRJNA925797	300	9732471	ILLUMINA	B8441 CAU30, glucose control, rep I
+SRR23147656	Baseline/carbon-nitrogen		PRJNA925797	300	11280995	ILLUMINA	B8441 CAU30, glucose control, rep II
+SRR23147654	Baseline/carbon-nitrogen		PRJNA925797	300	11152094	ILLUMINA	B8441 CAU30, malic acid (alt carbon), rep I
+SRR6900290	Drug stress	B8441	PRJNA445471	187	10767537	ILLUMINA	B8441, untreated control 2hr, rep1
+SRR6900288	Drug stress	B8441	PRJNA445471	190	9049533	ILLUMINA	B8441, amphotericin B 4hr, rep1
+SRR6900292	Drug stress	B8441	PRJNA445471	187	17155466	ILLUMINA	B8441, untreated control 4hr, rep1
+SRR6900300	Drug stress	B8441	PRJNA445471	190	15510288	ILLUMINA	B8441, voriconazole 4hr, rep1
+SRR36968534	Biofilm	SKU013	PRJNA1413425	200	81984803	ILLUMINA	SKU013 WT, biofilm, rep A (single rep - very deep run)
+SRR36968535	Biofilm	SKU013	PRJNA1413425	200	71195900	ILLUMINA	SKU013 WT, planktonic, rep A (single rep - very deep run)
+SRR31308406	Morphology (WT)	WT-R1	PRJNA1184812	300	9456418	DNBSEQ	WT (filamentation study background strain), rep1
+SRR31308405	Morphology (WT)	WT-R2	PRJNA1184812	300	9481769	DNBSEQ	WT (filamentation study background strain), rep2
+SRR27704973	Morphology/aggregative	939	PRJNA1015296	300	11492417	ILLUMINA	clinical isolate 939, aggregative morphology study, rep1
+SRR38896884	Abiotic stress (temp/salt)	B8441	PRJNA1472442	300	13514897	ILLUMINA	B8441, clade I, temp/salt stress panel, rep1
+SRR38896887	Abiotic stress (temp/salt)	B11244	PRJNA1472442	300	10924995	ILLUMINA	B11244, clade III, temp/salt stress panel, rep1
+SRR28790270	Clade III representation	AR0382	PRJNA1086003	202	72645491	ILLUMINA	AR0382 (clade III), in vitro growth, single rep - very deep run
+SRR28790276	Clade IV representation	AR0387	PRJNA1086003	200	64315801	ILLUMINA	AR0387 (clade IV), in vitro growth, single rep - very deep run
+SRR17805794	Drug/regulon (WT only)	B11221	PRJNA801628	99	29303997	ILLUMINA	B11221 WT, control, rep1

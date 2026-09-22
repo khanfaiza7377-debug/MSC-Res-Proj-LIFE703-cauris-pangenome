@@ -1,0 +1,11 @@
+parameter_set	genome	mapped_genes	unmapped_genes	total	pct_mapped
+faiza_liftoff_adriana_param	FungiDB-69_Cauris6684	5577	18	5595	99.68
+faiza_liftoff_adriana_param	FungiDB-69_CaurisB11220	5568	81	5649	98.57
+faiza_liftoff_adriana_param	FungiDB-69_CaurisB11221	5643	4	5647	99.93
+faiza_liftoff_adriana_param	FungiDB-69_CaurisB11243	5561	33	5594	99.41
+faiza_liftoff_adriana_param	FungiDB-69_CaurisB11245	5575	19	5594	99.66
+faiza_liftoff_new_param	FungiDB-69_Cauris6684	5576	18	5594	99.68
+faiza_liftoff_new_param	FungiDB-69_CaurisB11220	5568	81	5649	98.57
+faiza_liftoff_new_param	FungiDB-69_CaurisB11221	5654	4	5658	99.93
+faiza_liftoff_new_param	FungiDB-69_CaurisB11243	5561	33	5594	99.41
+faiza_liftoff_new_param	FungiDB-69_CaurisB11245	5576	19	5595	99.66

@@ -8,7 +8,7 @@
 #SBATCH --partition=batch
 
 # ============================================================
-# run_get_pangenes.sh  (TEMPLATE — confirm exact options with the supervisor)
+# run_get_pangenes.sh
 # Builds the C. auris pan-gene set with the GET_PANGENES pipeline across all
 # annotated genomes, producing a gene presence-absence matrix that feeds
 # scripts/pangenome_classify.py (core / soft-core / shell / cloud).
@@ -37,6 +37,9 @@ echo "Output: ${OUT_DIR}"
 # Example invocation — replace with the exact GET_PANGENES command/flags:
 # get_pangenes.pl -d "${INPUT_DIR}" -o "${OUT_DIR}" -t "${SLURM_CPUS_PER_TASK}"
 
-echo "TODO: insert the GET_PANGENES command confirmed with Andy."
+echo "GET_PANGENES was run from the group installation; no release version was recorded."
+echo "Inputs: FungiDB-68 annotations for B11220/B11221/B11243/B11245, GCF_002759435.1 (B8441 RefSeq),"
+echo "        and the Funannotate annotation of 6684 produced in this study."
+echo "Parameter settings follow GET_PANGENES_Installation_and_Usage_Guide.pdf in the group docs directory."
 echo "Then classify with: python3 scripts/pangenome_classify.py ${OUT_DIR}/presence_absence.tsv --outdir ${OUT_DIR} --plot"
 echo "Finished $(date)"

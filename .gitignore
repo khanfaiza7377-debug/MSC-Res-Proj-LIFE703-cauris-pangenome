@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
+*.fasta
+*.fa
+*.gff
+*.gff3
+*.gtf
+*.bam
+*.sam
+*.fastq
+*.fastq.gz
+data/*
+!data/README.md
+# Track the small summary outputs so the analysis is inspectable;
+# large intermediates stay on the HPC.
+results/**/*.bam
+results/**/*.gff*
+results/**/*.fasta
+*.log
+log_files/
+err_files/

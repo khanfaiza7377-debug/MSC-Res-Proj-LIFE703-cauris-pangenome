@@ -1,0 +1,16 @@
+Candida auris pangenome summary
+========================================
+Genomes: 6
+Total pangene clusters: 5848
+
+Core (100%):              4982 (85.2%)
+Soft-core only (>= 95%, <100%): 0 (0.0%)
+Shell (< 95%):        866 (14.8%)
+
+Per-genome cluster membership:
+  FungiDB-68_CaurisB11220: 5271
+  GCF_002759435.1: 5393
+  FungiDB-68_CaurisB11245: 5217
+  FungiDB-68_CaurisB11243: 5403
+  FungiDB-68_CaurisB11221: 5481
+  Candida_auris_6684_fun: 5553

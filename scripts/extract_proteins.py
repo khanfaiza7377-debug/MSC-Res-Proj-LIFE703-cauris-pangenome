@@ -79,7 +79,7 @@ def extract_proteins(gff_file, genome_file, output_file):
                 if item.startswith('Parent='):
                     parent = item.split('=')[1]
                     if parent.startswith('transcript:'):
-                        parent = parent.replace('transcript:', '')
+                        parent = parent.replace('transcript:', '') 
                     break
             if not parent:
                 continue
@@ -141,3 +141,7 @@ if __name__ == '__main__':
         print("Usage: python3 extract_proteins.py <gff> <genome.fasta> <output.fasta>")
         sys.exit(1)
     extract_proteins(sys.argv[1], sys.argv[2], sys.argv[3])
+<import> 
+#the following command sequence is used to run the script with the provided arguments
+# python3 extract_proteins.py <gff> <genome.fasta> <output.fasta>
+#sequence fasta B86441 and gff file are used as input to extract and translate proteins, and the output is written to a specified fasta file.
